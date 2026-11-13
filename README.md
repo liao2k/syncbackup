@@ -63,3 +63,7 @@ syncbackup/history.py      SQLite 活動紀錄
 syncbackup/sysutil.py      macOS：QoS、電源、通知、自動啟動、Dock
 syncbackup/gui/            介面
 ```
+
+## 授權
+
+本專案以 [MIT 授權](LICENSE) 釋出，可以自由使用、修改與散布，請保留版權與授權聲明。
