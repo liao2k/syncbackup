@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.app
+教學影片/
+*.mp4
+*.mov
